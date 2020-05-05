@@ -1,7 +1,7 @@
 # download_from_wget
 Simple script to download a file containing urls with wget
 
-Usage: ./download-from-wget.sh -f <FILE> -P <OUT_DIR>
+Usage: ./download-from-wget.sh -f FILE -P OUT_DIR
   
 Options:
 
